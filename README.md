@@ -1,6 +1,6 @@
 # TXExplain (Arbitrum)
 
-Explain My Transaction is a **read-only Arbitrum tool** that converts raw blockchain transactions into **clear, human-readable explanations**, helping users understand what actually happened on-chain and identify potential risks.
+TXExplain is a **read-only Arbitrum tool** that converts raw blockchain transactions into **clear, human-readable explanations**, helping users understand what actually happened on-chain and identify potential risks.
 
 Paste any Arbitrum transaction hash and instantly see:
 - What type of transaction it was
