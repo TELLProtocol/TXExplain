@@ -39,14 +39,23 @@ This tool bridges that gap by translating low-level transaction data into explan
 ## 🧱 Tech Stack
 
 - **Backend:** PHP  
-- **Frontend:** Vanilla JavaScript, HTML, CSS  
+- **Frontend:** JavaScript, HTML, CSS, Phosphor Icons, HTMX  
 - **Blockchain:** Arbitrum One  
-- **RPC Provider:** Alchemy (or any Arbitrum-compatible RPC)  
-- **Hosting:** Cloudways (Apache/Nginx + PHP-FPM)
+- **RPC Provider:** PublicNode (or any Arbitrum-compatible RPC)
 
 ---
 
 ## 🏗️ Architecture Overview
 
-
+Browser
+↓ (tx hash)
+PHP API (Cloudways)
+↓
+Arbitrum RPC
+↓
+Decoder + Explanation Engine
+↓
+JSON response
+↓
+Frontend UI
 
