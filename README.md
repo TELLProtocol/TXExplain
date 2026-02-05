@@ -59,3 +59,31 @@ JSON response
 ↓
 Frontend UI
 
+---
+
+## 📁 Project Structure
+
+/public
+
+├── index.html
+
+├── app.js
+
+└── styles.css
+
+/api
+
+├── explain.php
+
+├── rpc.php
+
+├── decoder.php
+
+├── explainers.php
+
+└── contracts.php
+
+/config
+
+└── config.php
+
