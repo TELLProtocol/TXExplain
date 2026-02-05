@@ -97,3 +97,82 @@ Frontend UI
 
 └── config.php
 
+---
+
+## 🧪 How It Works
+
+User pastes a transaction hash
+
+↓
+
+Backend fetches:
+- Transaction details
+
+- Transaction receipt
+
+↓
+
+Decoder analyzes:
+- Function selectors
+- Logs (Transfer, Approval events)
+- Known contract addresses
+  
+↓
+
+Explanation engine generates:
+- Transaction type
+- Human-readable explanation
+- Risk flags
+
+↓
+
+Frontend displays results
+
+---
+
+## ⚠️ Risk Detection Logic
+
+The tool currently detects:
+- Unlimited ERC20 approvals
+- Unknown or unverified contracts
+- High-level contract interactions
+
+All explanations are deterministic and rule-based for reliability.
+
+---
+
+## 🛣️ Roadmap (Post-Hackathon)
+
+- 🔐 Wallet connection (read-only)
+- ❌ Approval revocation
+- 🤖 AI-enhanced explanations
+- 🌉 Cross-chain support
+- 📈 Transaction simulation
+
+---
+
+## 🏆 Hackathon Context
+
+Built for the Arbitrum Open House NYC Online Buildathon
+Focus: UX, safety, and developer-friendly tooling for the Arbitrum ecosystem.
+
+---
+
+## ⚖️ Disclaimer
+
+This tool is for educational and informational purposes only.
+It does not provide financial advice or guarantee transaction safety.
+
+Always verify transactions and contracts independently.
+
+---
+
+## 📜 License
+
+MIT License
+
+---
+
+## 🙌 Author
+
+Built solo by Jasper Saxifrage
