@@ -48,15 +48,25 @@ This tool bridges that gap by translating low-level transaction data into explan
 ## 🏗️ Architecture Overview
 
 Browser
+
 ↓ (tx hash)
+
 PHP API (Cloudways)
+
 ↓
+
 Arbitrum RPC
+
 ↓
+
 Decoder + Explanation Engine
+
 ↓
+
 JSON response
+
 ↓
+
 Frontend UI
 
 ---
