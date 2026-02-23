@@ -10,6 +10,11 @@ Arbitrum is one of the most active DeFi ecosystems. **Complex router-based swaps
 
 ---
 
+## 🌐 Live Demo
+
+Try it here:
+👉 https://txexplain.iceily.com
+
 Paste any Arbitrum transaction hash and instantly see:
 - What type of transaction it was
 - Which contracts and tokens were involved
@@ -18,9 +23,15 @@ Paste any Arbitrum transaction hash and instantly see:
 
 ---
 
-## 🚀 Why This Project Exists
+## 🧠 The Problem
 
 Blockchain explorers show **what happened**, but not **what it means**.
+
+On Arbitrum, this problem is amplified because:
+- Router-based swaps obscure true token flows
+- ERC20 approvals can silently grant unlimited access
+- Multi-step DeFi interactions are difficult to interpret
+- L2 execution and batching add complexity
 
 Most users don’t understand:
 - What they approved
