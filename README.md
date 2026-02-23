@@ -199,14 +199,22 @@ All explanations are deterministic and rule-based for reliability.
 - 🧩 SDK for wallet & dApp integration
 
 Long-term vision:
+
 **TXExplain** becomes a middleware layer that wallets and dApps use to improve transaction transparency on Arbitrum.
 
 ---
 
 ## 🏆 Hackathon Context
 
-Built for the Arbitrum Open House NYC Online Buildathon
-Focus: UX, safety, and developer-friendly tooling for the Arbitrum ecosystem.
+Built for the Arbitrum Open House Online Buildathon.
+
+Focus areas:
+- DeFi UX
+- Transaction safety
+- Ecosystem-native tooling
+- Practical usability on Arbitrum One
+
+**TXExplain** aims to reduce user error and improve confidence within the Arbitrum ecosystem.
 
 ---
 
