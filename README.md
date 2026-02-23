@@ -2,13 +2,13 @@
 
 ## TXExplain — Safety & Intelligence Layer for Arbitrum DeFi
 
-TXExplain is a read-only transaction intelligence engine built specifically for Arbitrum.
+**TXExplain** is a **read-only transaction intelligence engine** built specifically for **Arbitrum**.
 
+It converts raw on-chain transaction data into **clear, human-readable explanations** and highlights potential risks before users make costly mistakes.
 
+Arbitrum is one of the most active DeFi ecosystems. **Complex router-based swaps, approvals, batching, and L2 mechanics** make transactions difficult to interpret for users. **TXExplain** is purpose-built for Arbitrum to improve safety and usability within its ecosystem.
 
-
-
-TXExplain is a **read-only Arbitrum tool** that converts raw blockchain transactions into **clear, human-readable explanations**, helping users understand what actually happened on-chain and identify potential risks.
+---
 
 Paste any Arbitrum transaction hash and instantly see:
 - What type of transaction it was
@@ -27,7 +27,7 @@ Most users don’t understand:
 - What contracts actually did
 - Whether a transaction is risky or safe
 
-This tool bridges that gap by translating low-level transaction data into explanations that humans can understand.
+**TXExplain** bridges that gap by translating low-level transaction data into explanations that humans can understand.
 
 ---
 
