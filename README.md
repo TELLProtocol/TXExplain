@@ -54,16 +54,18 @@ Instead of raw logs and calldata, users receive:
 
 ---
 
-## ✨ Features (MVP)
+## ✨ MVP Features
 
-- 🔍 **Transaction decoding** (by hash)
-- 🧠 **Plain-English explanations**
-- ⚠️ **Risk detection**
-  - Unlimited token approvals
-  - Unknown / unverified contracts
-- ✅ **Verified protocol detection**
-- 📊 Gas usage summary
-- 🔒 **Read-only** (no wallet connection, no signing)
+- 🔍 Transaction decoding by hash
+- 🔄 Swap detection
+- 💰 ERC20 transfer decoding
+- 🧠 Plain-English explanation engine
+- ⚠️ Risk detection
+-- Unlimited token approvals
+-- Unknown / unverified contracts
+- 🏷️ Verified protocol detection
+- ⛽ Gas usage summary
+- 🔒 Fully read-only (no wallet connection required)
 
 ---
 
