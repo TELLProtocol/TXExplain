@@ -155,7 +155,6 @@ User pastes a transaction hash
 
 Backend fetches:
 - Transaction details
-
 - Transaction receipt
 
 ↓
@@ -191,11 +190,16 @@ All explanations are deterministic and rule-based for reliability.
 
 ## 🛣️ Roadmap (Post-Hackathon)
 
-- 🔐 Wallet connection (read-only)
-- ❌ Approval revocation
-- 🤖 AI-enhanced explanations
+- 🏷️ Protocol-level swap identification
+- 🔐 Optional Wallet connection (read-only analysis)
+- ❌ Approval revocation support
+- 🤖 AI-enhanced contextual explanations
 - 🌉 Cross-chain support
-- 📈 Transaction simulation
+- 📈 Transaction simulation & preview
+- 🧩 SDK for wallet & dApp integration
+
+Long-term vision:
+**TXExplain** becomes a middleware layer that wallets and dApps use to improve transaction transparency on Arbitrum.
 
 ---
 
