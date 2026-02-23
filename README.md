@@ -69,6 +69,21 @@ Instead of raw logs and calldata, users receive:
 
 ---
 
+## 🧱 Why Arbitrum-Specific?
+
+TXExplain is not a generic EVM decoder.
+
+It is optimized for:
+- Arbitrum One transaction patterns
+- Router-heavy DeFi architecture
+- High-volume stablecoin and swap activity
+- Common Arbitrum DeFi protocols
+- L2-specific execution behavior
+
+**TXExplain** is designed around how DeFi actually operates on Arbitrum.
+
+---
+
 ## 🧱 Tech Stack
 
 - **Backend:** PHP  
