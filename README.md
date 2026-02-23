@@ -13,7 +13,7 @@ Arbitrum is one of the most active DeFi ecosystems. **Complex router-based swaps
 ## 🌐 Live Demo
 
 Try it here:
-👉 https://txexplain.iceily.com
+👉 https://txexplain.iceiy.com
 
 Paste any Arbitrum transaction hash and instantly see:
 - What type of transaction it was
@@ -36,6 +36,7 @@ On Arbitrum, this problem is amplified because:
 Most users don’t understand:
 - What they approved
 - What contracts actually did
+- Which protocol was involved 
 - Whether a transaction is risky or safe
 
 **TXExplain** bridges that gap by translating low-level transaction data into explanations that humans can understand.
