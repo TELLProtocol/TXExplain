@@ -39,7 +39,18 @@ Most users don’t understand:
 - Which protocol was involved 
 - Whether a transaction is risky or safe
 
-**TXExplain** bridges that gap by translating low-level transaction data into explanations that humans can understand.
+
+## 💡 The Solution
+
+**TXExplain** acts as a Safety & Intelligence Layer for Arbitrum DeFi.
+
+Instead of raw logs and calldata, users receive:
+- A clear explanation of what occurred
+- Identified token transfers
+- Detected approvals
+- Risk signals
+- Gas usage summary
+- Protocol-level insights
 
 ---
 
